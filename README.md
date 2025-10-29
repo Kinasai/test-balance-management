@@ -1,6 +1,6 @@
 # Balance Management API
 
-#### Простое REST API приложение для управления балансом пользователей, разработанное на Laravel с использованием PostgreSQL.
+#### Простое API приложение для управления балансом пользователей, разработанное на Laravel с использованием PostgreSQL.
 
 # Требования
 - [Docker](https://docs.docker.com/engine/install/)
